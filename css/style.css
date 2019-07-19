@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+
+
+
+#bawah{
+    background-color: #f5f6fa;
+    height: 200px;
+    display: flex;
+}
+
+#foot{
+    width: 100%;
+    height: 30px;
+}
+
+#bawah a{
+    text-decoration: none;
+    color: #747d8c;
+}
+
+.footer{
+    width: 100%;
+}
+
+#imgfot{
+    position: absolute;
+    width: 40%;
+    flex: 4;
+}
+
+#fotnu{
+    margin-left: 30%;
+    position: absolute;
+    width: 20%;
+    margin-top: 20px;
+    flex: 4;
+}
+
+#fotnu2{
+    margin-left: 60%;
+    position: absolute;
+    width: 20%;
+    margin-top: 20px;
+    flex: 4;
+}
+
+#sosmed{
+    margin-left: 70%;
+    position: absolute;
+    width: 20%;
+    margin-top: 20px;
+    flex: 4;
+}
